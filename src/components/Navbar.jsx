@@ -1,4 +1,4 @@
-import logo from "../assets/kevinRushLogo.png";
+import logo from "../assets/AvLogo.png";
 import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
 
 const Navbar = () => {
